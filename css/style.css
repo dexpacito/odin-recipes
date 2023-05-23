@@ -8,3 +8,14 @@ h1 {
     color: blue;
     font-size: 30px;
 }
+
+.procedure {
+    background: #3256c3;
+    padding-bottom: 1em;
+    margin: 1em auto;
+}
+
+.procedure h2{
+    background: grey;
+    padding: 0.5em;
+}
